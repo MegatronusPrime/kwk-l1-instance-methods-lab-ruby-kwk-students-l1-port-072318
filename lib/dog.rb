@@ -1,11 +1,9 @@
 class Dogs
-  attr_reader :bark :sit :talk
-  attr_writer :bark :sit :talk
+  attr_reader :bark
+  attr_writer :bark
   
   def initiallize(bark, sit)
     @bark = bark
-    @sit = sit
-    @talk = talk
   end
 
 end
