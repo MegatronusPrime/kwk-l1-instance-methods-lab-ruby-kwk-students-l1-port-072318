@@ -10,10 +10,7 @@ class Dogs
 
 end
 
-dog = Dogs.new("Woof!", "The dog is sitting.")
-
-dog.bark
-
+puts "Woof!"
 
 
 
