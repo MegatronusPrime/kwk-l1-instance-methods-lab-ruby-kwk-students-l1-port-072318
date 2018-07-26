@@ -10,6 +10,7 @@ class Dogs
 
 end
 
+def 
 puts "Woof!"
 
 
