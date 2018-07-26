@@ -1,4 +1,4 @@
-class Dogs
+class Dog
   # attr_reader :bark
   # attr_writer :bark
   
