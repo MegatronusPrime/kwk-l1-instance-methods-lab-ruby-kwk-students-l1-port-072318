@@ -1,8 +1,8 @@
-class Dog
+class Dogs
   attr_reader :bark :sit :talk
   attr_writer :bark :sit :talk
   
-  def initiallize(bark, sit, talk)
+  def initiallize(bark, sit)
     @bark = bark
     @sit = sit
     @talk = talk
@@ -10,8 +10,9 @@ class Dog
 
 end
 
+dog = Dogs.new("Woof!", "The dog is sitting.")
 
-
+dog.bark
 
 
 
