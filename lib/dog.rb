@@ -5,11 +5,12 @@ class Dogs
   # def initiallize(bark, sit)
   #   @bark = bark
   # end
+  
+  def bark
+    puts "Woof!"
+  end 
 
 end
-
-def 
-puts "Woof!"
 
 
 
