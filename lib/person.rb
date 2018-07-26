@@ -2,7 +2,7 @@ class Person
 
 
   def talk
-  puts "Hello World!" 
+    puts "Hello World!" 
   end
 
 
